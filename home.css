@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    user-select: none;
+}
+.header{
+    width: 100%;
+    height: 20px;
+    background-color:#694529 ;
+    text-align: center;
+    color: white;
+    font-size:12px;
+    font-family:"Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif; 
+}
+.navbar{
+    padding: 6px;
+    padding-right:19px;
+}
+nav{
+    position:sticky;bottom: 0px;
+}
+.nav-link{
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+    margin-right:22px;
+    font-size:20px;
+}
+#about{
+    margin-right:8px;
+}
+.carousel-inner img{
+    width:100%;
+    height:100%;
+}
+h3{
+    color:#a56b31;
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+}
+#row1{
+    color:black;
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+} 
+#contactues{
+    color:#a56b31;
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+}
+strong{
+    color:rgba(255, 0, 0, 0.788);
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+}
+#allwomen{
+    color:#a56b31;
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+    font-size: 29px;
+}
+#describe:hover {
+    text-decoration: underline;
+    color: black;
+}
